@@ -12,6 +12,7 @@ Empower your HR team with this comprehensive dashboard, featuring deep analysis 
 <strong>3. Superstore Sales Dashboard</strong> 🏪
 Analyze sales across regions, product categories, and customer segments to pinpoint growth opportunities and enhance operational efficiency. This dashboard provides a clear picture of superstore performance for smarter business decisions.
 <hr>
+<br>
 Each project highlights my ability to transform data into compelling data stories with visually rich, interactive dashboards. Explore these projects to see how I use Power BI to deliver real, actionable insights for business success.
 
 
