@@ -1,5 +1,5 @@
 # Power-BI-DashBoard
-Welcome to My Power BI Portfolio! 🚀
+Welcome to My Power BI Project Section ! 🚀
 This repository showcases my ability to harness the power of data analytics and visualization using Power BI. Dive into my projects below and discover how I turn raw data into interactive, insightful dashboards that drive data-driven decision-making.
 <hr>
 Featured Projects:
